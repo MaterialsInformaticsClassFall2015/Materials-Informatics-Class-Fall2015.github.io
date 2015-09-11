@@ -1,0 +1,15 @@
+# Site settings
+title: Materials Informatics Class Fall 2015 Project Index
+email: your-email@domain.com
+description: ""
+baseurl: "" 
+url: "http://materials-informatics-class-fall2015.github.io/"
+github_username: materials-informatics-class-fall2015
+
+# Layout settings
+header_type: default  # values [ drawer, default ]
+post_type: highlight    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
+
+# Build settings
+markdown: kramdown
