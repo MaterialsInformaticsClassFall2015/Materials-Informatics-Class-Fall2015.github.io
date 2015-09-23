@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Exploring Process Structure Linkages in Machining of Commercial Purity Titanium"
+date:   2015-01-01 00:00:00
+categories: project
+author: Materials-Informatics-Class-Fall2015
+image: http://ars.els-cdn.com/content/image/1-s2.0-S1359645409004807-gr4.jpg
+link: http://matinfteam4.github.io/
+---
+Machining is a subtractive manufacturing process that removes material via failure due to severe plastic deformation (SPD). The imposed processing conditions induce deformation conditions (strain, strain-rate, temperature) contribute to structural changes at small length scales. These structural changes can affect properties relevant to performance at the machined surface.
