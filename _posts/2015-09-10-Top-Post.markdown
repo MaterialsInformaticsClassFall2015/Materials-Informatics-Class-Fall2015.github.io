@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Materials Informatics Class Fall 2015"
+title:  "Materials Informatics Class Fall 2014"
 date:   2015-10-11 04:34:20
 categories: GDG
 highlight: true
