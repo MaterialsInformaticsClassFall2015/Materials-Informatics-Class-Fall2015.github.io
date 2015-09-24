@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Quantifying the Structure-Property Relationship in P3HT Thin Film Transistors"
+date:   2015-01-01 00:00:00
+categories: project
+author: Materials-Informatics-Class-Fall2015
+image: https://farm9.staticflickr.com/8663/15917439955_d10afe01e7_o.png
+link: http://materials-informatics-class-fall2014.github.io/MIC-Polymer-MD-Simulations/
+---
+The initial goals of this project were to develop processing - structure linkages for semicrystalline polyethylene molecular dynamics (PE-MD) simulations. After analysis of our sample data revealed major issues, the focus of the project was shifted to the comparison of traditional crystallinity analysis tools (such as density and Herman’s Orientation) versus a new approach developed over the course of the term. 

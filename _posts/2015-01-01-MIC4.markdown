@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Identifying Multi-Layer Formation and Growth on Tungsten Nano-Wires"
+date:   2015-01-01 00:00:00
+categories: project
+author: Materials-Informatics-Class-Fall2015
+image: http://i.imgur.com/k9abrEU.jpg
+link: http://materials-informatics-class-fall2014.github.io/MIC-Tungsten-Nanowires/
+---
+Our initial project goal consisted of characterizing the porosity distribution and evolution within a tungsten tri-oxide hydrate layer growing on a tungsten nano-wire surface. This research stemmed from Dr. Maryana Nave’s (a PhD student at Clemson University) Ph.D. thesis and was conducted in conjunction with her research advisor, Dr. Konstantin Kornev. It became evident early on that we had insufficient data to visualize porosity and could not meet this goal.
