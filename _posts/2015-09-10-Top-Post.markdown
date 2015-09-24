@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Materials Informatics Class Fall 2015"
+date:   2015-10-11 04:34:20
+categories: GDG
+highlight: true
+image: https://avatars1.githubusercontent.com/u/14084708?v=3&s=200
+---
+Below is a research blog index for the projects in the ME8883/CSE8803 Materials Informatics Class in Fall 2015. Click on a project of interest to navigate to the related blog chronicling the progress of each project, and feel free to contribute ideas through the comments or contact sections.
